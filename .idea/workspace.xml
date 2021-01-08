@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d786e549-565c-4837-aaad-3c958babf6e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Technologies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1mi8mAaoQuabkqjDzBAH9vOV9hH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,6 +44,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Администратор\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -59,7 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1609965208030</updated>
       <workItem from="1609965209664" duration="894000" />
-      <workItem from="1610034785964" duration="7530000" />
+      <workItem from="1610034785964" duration="8129000" />
+      <workItem from="1610057954783" duration="5636000" />
+      <workItem from="1610107225818" duration="727000" />
     </task>
     <servers />
   </component>
@@ -71,5 +77,9 @@
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2803" y="32" key="CommitChangelistDialog2/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610056210471" />
+    <state x="1541" y="214" key="SettingsEditor" timestamp="1610106412351">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="1541" y="214" key="SettingsEditor/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610106412351" />
   </component>
 </project>
