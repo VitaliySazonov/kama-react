@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d786e549-565c-4837-aaad-3c958babf6e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Technologies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Администратор\AppData\Roaming\npm\node_modules\prettier" />
@@ -51,6 +58,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\IT\kama\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -66,6 +93,7 @@
       <workItem from="1610034785964" duration="8129000" />
       <workItem from="1610057954783" duration="5636000" />
       <workItem from="1610107225818" duration="727000" />
+      <workItem from="1610573537904" duration="1759000" />
     </task>
     <servers />
   </component>
@@ -73,10 +101,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2913" y="186" key="#renders_learn_react_link" timestamp="1610574580716">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2913" y="186" key="#renders_learn_react_link/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574580716" />
     <state x="2803" y="32" key="CommitChangelistDialog2" timestamp="1610056210471">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
     <state x="2803" y="32" key="CommitChangelistDialog2/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610056210471" />
+    <state width="1211" height="258" key="GridCell.Tab.0.bottom" timestamp="1610574690472">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1211" height="258" key="GridCell.Tab.0.bottom/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
+    <state width="1211" height="258" key="GridCell.Tab.0.center" timestamp="1610574690472">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1211" height="258" key="GridCell.Tab.0.center/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
+    <state width="1211" height="258" key="GridCell.Tab.0.left" timestamp="1610574690472">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1211" height="258" key="GridCell.Tab.0.left/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
+    <state width="1211" height="258" key="GridCell.Tab.0.right" timestamp="1610574690472">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1211" height="258" key="GridCell.Tab.0.right/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
     <state x="1541" y="214" key="SettingsEditor" timestamp="1610106412351">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
