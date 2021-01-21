@@ -1,11 +1,11 @@
 import React from "react"
 import style from './Profile.module.css'
-import MyPosts from "./MyPosts/MyPosts"
+import Posts from "./Posts/Posts"
 
 const Profile = () => {
   return(
     <div>
-      <MyPosts/>
+      <Posts/>
     </div>
   )
 }

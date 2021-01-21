@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import logo from "../../img/logo.svg";
 import style from './Header.module.css'
 import "@testing-library/react"
-import App from "../../App"
+import App from "../App/App"
 
 const Header = () => {
   return (
