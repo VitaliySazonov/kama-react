@@ -1,0 +1,10 @@
+.posts {
+  background: cadetblue;
+}
+.item {
+  color: cadetblue;
+}
+
+.item.active {
+  color: gold;
+}
