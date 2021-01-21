@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d786e549-565c-4837-aaad-3c958babf6e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+    <list default="true" id="d786e549-565c-4837-aaad-3c958babf6e0" name="Default Changelist" comment="cherr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technologies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +16,12 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vito &lt;topvetal@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1mi8mAaoQuabkqjDzBAH9vOV9hH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,37 +38,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Администратор\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\IT\kama\src" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/App.test.js" />
-      <test-names>
-        <test-name value="renders learn react link" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Jest.renders learn react link" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,44 +59,35 @@
       <option name="presentableId" value="Default" />
       <updated>1609965208030</updated>
       <workItem from="1609965209664" duration="894000" />
-      <workItem from="1610034785964" duration="8129000" />
-      <workItem from="1610057954783" duration="5636000" />
-      <workItem from="1610107225818" duration="727000" />
-      <workItem from="1610573537904" duration="1759000" />
+      <workItem from="1610034785964" duration="7530000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cherr" />
+    <option name="LAST_COMMIT_MESSAGE" value="cherr" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2913" y="186" key="#renders_learn_react_link" timestamp="1610574580716">
+    <state x="2803" y="32" key="CommitChangelistDialog2" timestamp="1611254252402">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="2913" y="186" key="#renders_learn_react_link/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574580716" />
-    <state x="2803" y="32" key="CommitChangelistDialog2" timestamp="1610056210471">
+    <state x="2803" y="32" key="CommitChangelistDialog2/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1611254252402" />
+    <state x="2849" y="100" width="892" height="840" key="DiffContextDialog" timestamp="1611253974023">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
-    <state x="2803" y="32" key="CommitChangelistDialog2/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610056210471" />
-    <state width="1211" height="258" key="GridCell.Tab.0.bottom" timestamp="1610574690472">
-      <screen x="0" y="0" width="3840" height="1040" />
-    </state>
-    <state width="1211" height="258" key="GridCell.Tab.0.bottom/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
-    <state width="1211" height="258" key="GridCell.Tab.0.center" timestamp="1610574690472">
-      <screen x="0" y="0" width="3840" height="1040" />
-    </state>
-    <state width="1211" height="258" key="GridCell.Tab.0.center/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
-    <state width="1211" height="258" key="GridCell.Tab.0.left" timestamp="1610574690472">
-      <screen x="0" y="0" width="3840" height="1040" />
-    </state>
-    <state width="1211" height="258" key="GridCell.Tab.0.left/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
-    <state width="1211" height="258" key="GridCell.Tab.0.right" timestamp="1610574690472">
-      <screen x="0" y="0" width="3840" height="1040" />
-    </state>
-    <state width="1211" height="258" key="GridCell.Tab.0.right/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610574690472" />
-    <state x="1541" y="214" key="SettingsEditor" timestamp="1610106412351">
-      <screen x="0" y="0" width="3840" height="1040" />
-    </state>
-    <state x="1541" y="214" key="SettingsEditor/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610106412351" />
+    <state x="2849" y="100" width="892" height="840" key="DiffContextDialog/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1611253974023" />
   </component>
 </project>
